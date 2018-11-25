@@ -17,7 +17,6 @@ header {
 	color: #000;
 	font-size: 0.4rem;
 	z-index: 9999;
-	/*background-color: saddlebrown;*/
 }
 
 header a {
@@ -56,16 +55,6 @@ header a {
 	display: inline-block;
 	background-color: #fff;
 }
-
-/*.goods:nth-of-type(2n+1) .recommmend {
-	margin-right: 0.04rem;
-	background-color: red;
-}
-
-.goods:nth-of-type(2n) .recommmend {
-	margin-left: 0.04rem;
-	background-color: blue;
-}*/
 
 .goods .recommmend .images {
 	margin-top: 0.3rem;
